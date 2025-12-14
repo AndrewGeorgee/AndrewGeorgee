@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hi there, I'm Andrew George! 👋</h1>
-  <h3>🚀 Mid-Level Flutter Mobile Engineer</h3>
+  <h3>🚀 Senior Flutter Engineer</h3>
   <p><i>Building high-impact mobile experiences with scalable architectures.</i></p>
 
   <p>
