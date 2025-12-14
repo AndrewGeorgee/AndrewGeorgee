@@ -5,8 +5,8 @@
 
   <p>
     <a href="mailto:andrew.george.rage@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=flat-square&logo=gmail" alt="Email" /></a>
-    <a href="#"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin" alt="LinkedIn" /></a>
-    <a href="#"><img src="https://img.shields.io/badge/Portfolio-Visit-green?style=flat-square&logo=google-chrome" alt="Portfolio" /></a>
+    <a href="https://www.linkedin.com/in/andrew-george-rage"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin" alt="LinkedIn" /></a>
+    <a href="https://my-portfolio-7bdba.web.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-green?style=flat-square&logo=google-chrome" alt="Portfolio" /></a>
   </p>
 </div>
 
@@ -14,12 +14,14 @@
 
 ## 👨‍💻 About Me
 
-Based in **Cairo, Egypt**, I am a **High-Impact Mobile Engineer** with deep expertise in architecting scalable, multi-tenant ecosystems for the Fintech and Gaming sectors. Proven track record of engineering complex white-label solutions serving **9+ enterprise brands** from a single, modular codebase.
+I am a **High-Impact Mobile Engineer** with deep expertise in architecting scalable, multi-tenant ecosystems for the **Fintech** and **Gaming** sectors. I have a proven track record of engineering complex white-label solutions serving **9+ enterprise brands** from a single, modular codebase.
 
-- 📱 Expert in **Advanced State Management** (BLoC, Riverpod).
-- 🔄 Specialized in **Offline-first** data synchronization.
-- 🛡️ Adept at **Security Compliance** (Geofencing, Biometric Auth).
-- ⚡ Focused on **CI/CD pipelines** and **Defense-in-depth security**.
+My work emphasizes **99.9% application reliability** in data-critical environments, leveraging advanced state management and offline-first architectures to deliver seamless user experiences.
+
+- 📱 **Core Expertise:** Advanced State Management (BLoC, Riverpod) & Clean Architecture.
+- 🔄 **Offline-First:** Robust data synchronization for zero data loss.
+- 🛡️ **Security:** Integrated defense-in-depth protocols (Geofencing, Biometric Auth).
+- ⚡ **DevOps:** Orchestrating efficient CI/CD pipelines for automated delivery.
 
 ---
 
@@ -36,31 +38,15 @@ Based in **Cairo, Egypt**, I am a **High-Impact Mobile Engineer** with deep expe
 ---
 
 
-## 🚀 Key Projects
 
-### **[Wagging Tails - Pet E-Commerce Platform](https://play.google.com/store/apps/details?id=com.waggingtails.prod&hl=en)**
-*A premium, cross-platform mobile commerce application for pet products and services.*
-- **Architecture:** Built using **Flutter** and **Clean Architecture**.
-- **State Management:** Robust system using **Provider** and **Bloc**.
-- **Payments:** Engineered a secure multi-gateway module (**Razorpay, Paytm, Stripe, Paystack**).
-- **Features:** Dynamic UI with **FluxUI**, **GraphQL** integration, and **Google Maps** for store locators.
 
----
 
-## 🎓 Education
-
-**Thebes Academy** | Bachelor's Degree in Computer Science
-*Aug 2019 - Aug 2023*
-- Grade: **Excellent (A)**
-- Focus: Software Engineering, Data Structures, Algorithms, OOP.
-
----
 
 <div align="center">
   <p><i>Let's connect and build something amazing!</i></p>
   <p>
-    <a href="#">LinkedIn</a> •
-    <a href="#">Portfolio</a> •
-    <a href="#">GitHub</a>
+    <a href="https://www.linkedin.com/in/andrew-george-rage">LinkedIn</a> •
+    <a href="https://my-portfolio-7bdba.web.app/">Portfolio</a> •
+    <a href="https://github.com/AndrewGeorgee">GitHub</a>
   </p>
 </div>
