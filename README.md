@@ -5,8 +5,8 @@
 
   <p>
     <a href="mailto:andrew.george.rage@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=flat-square&logo=gmail" alt="Email" /></a>
-    <a href="LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin" alt="LinkedIn" /></a>
-    <a href="PORTFOLIO_URL"><img src="https://img.shields.io/badge/Portfolio-Visit-green?style=flat-square&logo=google-chrome" alt="Portfolio" /></a>
+    <a href="#"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin" alt="LinkedIn" /></a>
+    <a href="#"><img src="https://img.shields.io/badge/Portfolio-Visit-green?style=flat-square&logo=google-chrome" alt="Portfolio" /></a>
   </p>
 </div>
 
@@ -35,33 +35,10 @@ Based in **Cairo, Egypt**, I am a **High-Impact Mobile Engineer** with deep expe
 
 ---
 
-## 💼 Professional Experience
-
-### **White Ivory Elephant Technologies** | Mid-Level Flutter Mobile Engineer
-*Remote | Oct 2023 - Present*
-- **Architected a Scalable White Label Solution:** Engineered **Ivoree**, a multi-tenant architecture serving **9+ casino tenants** from a single codebase. Utilized **Build Flavors** to reduce onboarding time by **40%**.
-- **Optimized State Management:** implemented **BLoC/Cubit** for complex logic (Gaming/Loyalty) ensuring consistent UI states under intermittent network conditions.
-- **Hardware Integration:** Led native integration of **MagTek eDynamo** card readers and **BLE** peripherals using custom **Swift/Kotlin MethodChannels**.
-- **Security & Compliance:** Integrated **Geofencing** and **Biometric Authentication** to meet strict regulatory compliance for real-money gaming.
-
-### **Xapprika** | Flutter Developer (Part-time Contract)
-*Remote | Sep 2024 - Dec 2024*
-- **Delivered Critical Healthcare Ecosystems:** Built **PatientBook**, an EMR mobile client using **GetX**, enabling secure role-based access.
-- **Real-Time Tracking:** Developed **Dr. 7alan**, an "Uber-like" emergency response app using **Provider** and **Google Maps API** with WebSocket reconnections.
-- **Offline-First:** Integrated **Sqflite** for local storage, ensuring zero data loss in poor connectivity environments.
-
-### **Basseta** | Flutter Developer
-*Remote | Feb 2023 - Sep 2023*
-- **Launched FinTech MVP:** Developed a mobile application for a healthcare installment platform.
-- **Performance:** Architected using **Riverpod 2.0** and **Hive**, achieving **sub-100ms** load times for financial history.
-- **Localization:** Implemented **Arabic/English (RTL/LTR)** support using `easy_localization`.
-- **Navigation:** Utilized **GoRouter** for complex deep-linking scenarios.
-
----
 
 ## 🚀 Key Projects
 
-### **Wagging Tails - Pet E-Commerce Platform**
+### **[Wagging Tails - Pet E-Commerce Platform](https://play.google.com/store/apps/details?id=com.waggingtails.prod&hl=en)**
 *A premium, cross-platform mobile commerce application for pet products and services.*
 - **Architecture:** Built using **Flutter** and **Clean Architecture**.
 - **State Management:** Robust system using **Provider** and **Bloc**.
@@ -82,8 +59,8 @@ Based in **Cairo, Egypt**, I am a **High-Impact Mobile Engineer** with deep expe
 <div align="center">
   <p><i>Let's connect and build something amazing!</i></p>
   <p>
-    <a href="LINKEDIN_URL">LinkedIn</a> •
-    <a href="PORTFOLIO_URL">Portfolio</a> •
-    <a href="YOUR_GITHUB_URL">GitHub</a>
+    <a href="#">LinkedIn</a> •
+    <a href="#">Portfolio</a> •
+    <a href="#">GitHub</a>
   </p>
 </div>
