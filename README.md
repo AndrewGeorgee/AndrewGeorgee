@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hi there, I'm Andrew George! 👋</h1>
-  <h3>🚀 Senior Flutter Engineer</h3>
+  <h3>🚀 Mid-Level Flutter Engineer</h3>
   <p><i>Building high-impact mobile experiences with scalable architectures.</i></p>
 
   <p>
@@ -14,14 +14,9 @@
 
 ## 👨‍💻 About Me
 
-I am a **High-Impact Mobile Engineer** with deep expertise in architecting scalable, multi-tenant ecosystems for the **Fintech** and **Gaming** sectors. I have a proven track record of engineering complex white-label solutions serving **9+ enterprise brands** from a single, modular codebase.
+**Mid-Level Flutter Engineer** with 3+ years of hands-on experience building scalable, production-grade mobile applications for **FinTech**, **Gaming**, and **Healthcare** domains. Proven ability to deliver white-label, multi-tenant architectures from a single Flutter codebase, supporting **9+ enterprise clients**.
 
-My work emphasizes **99.9% application reliability** in data-critical environments, leveraging advanced state management and offline-first architectures to deliver seamless user experiences.
-
-- 📱 **Core Expertise:** Advanced State Management (BLoC, Riverpod) & Clean Architecture.
-- 🔄 **Offline-First:** Robust data synchronization for zero data loss.
-- 🛡️ **Security:** Integrated defense-in-depth protocols (Geofencing, Biometric Auth).
-- ⚡ **DevOps:** Orchestrating efficient CI/CD pipelines for automated delivery.
+Strong background in **state management**, **offline-first systems**, **native integrations**, and **CI/CD pipelines**. Passionate about **clean architecture**, **performance optimization**, and **business-impact-driven engineering**.
 
 ---
 
