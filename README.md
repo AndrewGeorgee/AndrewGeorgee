@@ -63,16 +63,15 @@ I'm a **Flutter Mobile Engineer** with **3+ years** of hands-on experience shipp
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Most Used Languages
 
 <div align="center">
 
-![Andrew's GitHub stats](https://github-readme-stats.vercel.app/api?username=AndrewGeorgee&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AndrewGeorgee&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=AndrewGeorgee&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AndrewGeorgee&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
 
 </div>
+
+> 💡 Most of my strongest work lives in private/company repositories (white-label SaaS, FinTech & HealthTech apps). The languages above reflect my public footprint — primarily **Dart/Flutter** with native **Swift** and **C++** integrations.
 
 ---
 
